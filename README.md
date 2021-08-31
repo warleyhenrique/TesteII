@@ -1,6 +1,6 @@
 ## Teste II (Opcional)
 
-## Curso Ignite Rocketseat - Trilha NodeJS - Chapter II
+## Curso Ignite Rocketseat - Trilha NodeJS - Chapter I
 
 ## Middlewares da aplicação
 
